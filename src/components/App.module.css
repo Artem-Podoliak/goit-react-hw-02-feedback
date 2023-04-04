@@ -18,6 +18,7 @@ ul {
   margin-right: auto;
   width: 600px;
   background-color: #ad9a76;
+  border-radius: 8px;
 }
 .title {
   text-align: center;
